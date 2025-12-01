@@ -1,0 +1,11 @@
+hospital_id,hospital_name,city,state,region,bed_count,ownership_type
+1,General Hospital 1,New York,NY,Northeast,252,Public
+2,General Hospital 2,Chicago,IL,Northeast,585,Public
+3,General Hospital 3,Houston,TX,South,420,Public
+4,General Hospital 4,Phoenix,AZ,Midwest,256,Public
+5,General Hospital 5,Seattle,WA,Midwest,221,Non-profit
+6,General Hospital 6,Boston,MA,Midwest,170,Non-profit
+7,General Hospital 7,Miami,FL,Northeast,764,Public
+8,General Hospital 8,Denver,CO,Northeast,271,Non-profit
+9,General Hospital 9,Atlanta,GA,West,616,Public
+10,General Hospital 10,Dallas,TX,Northeast,364,Non-profit
