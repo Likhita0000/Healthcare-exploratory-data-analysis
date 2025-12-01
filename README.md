@@ -79,26 +79,3 @@ Sample ranking queries included:
 * **Data Warehousing Concepts** (Gold Layer, fact/dim structure)
 * **Analytical Functions** (Ranking, aggregation, window functions)
 
----
-
-## 📁 Files Included
-
-* `eda_healthcare_gold_layer.sql` – Full SQL script containing all analysis queries.
-* README (this file) – Documentation summarizing objectives, steps, and insights.
-
----
-
-## 🚀 How to Use
-
-1. Run the SQL script in an environment connected to the Gold Layer dataset.
-2. Each section is clearly labeled for clarity and debugging.
-3. Modify schema/table names as needed for your specific environment.
-4. Use the ranking and summary queries as templates for dashboards or deeper modeling.
-
----
-
-## 🙌 Acknowledgments
-
-This analysis represents a real‑world healthcare data exploration approach, reflecting the workflow a data analyst or BI engineer would perform when working with enterprise warehouse structures.
-
-If you'd like enhancements such as visualizations, dashboards, or additional insights, feel free to reach out!
